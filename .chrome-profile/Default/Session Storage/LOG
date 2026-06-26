@@ -1,0 +1,10 @@
+2026/06/26-18:57:45.686 73d Reusing MANIFEST /root/stakecruncher-bot/.chrome-profile/Default/Session Storage/MANIFEST-000001
+2026/06/26-18:57:45.686 73d Recovering log #4
+2026/06/26-18:57:45.723 73d Level-0 table #7: started
+2026/06/26-18:57:45.752 73d Level-0 table #7: 1515626 bytes OK
+2026/06/26-18:57:45.756 73d Recovering log #7
+2026/06/26-18:57:45.756 73d Reusing old log /root/stakecruncher-bot/.chrome-profile/Default/Session Storage/000007.log 
+2026/06/26-18:57:45.757 73d Delete type=2 #8
+2026/06/26-18:57:45.757 73d Delete type=0 #4
+2026/06/26-19:01:52.215 741 Level-0 table #9: started
+2026/06/26-19:01:52.252 741 Level-0 table #9: 1516439 bytes OK
