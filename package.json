@@ -1,0 +1,14 @@
+{
+  "name": "stakecruncher-bot",
+  "version": "1.0.0",
+  "description": "Auto-clicker bot for StakeCruncher daily drop",
+  "type": "module",
+  "scripts": {
+    "start": "node scheduler.js",
+    "once": "node bot.js",
+    "import": "node import-cookies.js"
+  },
+  "dependencies": {
+    "playwright": "^1.45.0"
+  }
+}

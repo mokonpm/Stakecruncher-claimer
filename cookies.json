@@ -1,0 +1,32 @@
+[
+  {
+    "name": "csrf",
+    "value": "121b7a1de235a1e09d4c4ac206edaee5d027b0fa97447046",
+    "domain": ".stakecruncher.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sc_fp",
+    "value": "c19ce69ddff1f78f2bd29a15fac6d49f",
+    "domain": ".stakecruncher.com",
+    "path": "/",
+    "expires": 1782569202.177146,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "faucet_session",
+    "value": "078e9fe6553194ac1d9575e89696aa98266405b9c91c42dfc25126c59ae20fff",
+    "domain": ".stakecruncher.com",
+    "path": "/",
+    "expires": 1783087601.363387,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]
